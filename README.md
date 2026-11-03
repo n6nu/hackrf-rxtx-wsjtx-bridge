@@ -2,9 +2,14 @@
 
 Windows installer downloads for the **HackRF WSJT-X Bridge** — a Qt6
 C++ application that turns a HackRF One into a USB-SSB software
-transceiver for **WSJT-X** (FT8 / FT4) and a wideband Q65 IQ source
-for **QMAP**. Primarily built for 2 m and 23 cm EME on VHF / UHF /
+transceiver for **WS** (FT8 / FT4) and a wideband Q65 IQ source for
+**WS-MAP**. Primarily built for 2 m and 23 cm EME on VHF / UHF /
 microwave bands; the DSP is band-agnostic.
+
+The WS suite — **WS**, **WS-MAP** and **EME65** — lives at
+<https://wsjt-x-improved.sourceforge.io>, which is where most of this work went.
+
+<sub>Also works with WSJT-X, QMAP and MAP65.</sub>
 
 Author: **Andreas Junge, N6NU** &lt;<n6nu@arrl.net>&gt;.
 
