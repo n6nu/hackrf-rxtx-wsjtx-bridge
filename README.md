@@ -10,6 +10,22 @@ Author: **Andreas Junge, N6NU** &lt;<n6nu@arrl.net>&gt;.
 
 ---
 
+## Current build
+
+V3 is close to release, and the current build is far ahead of the v1.0.x
+download below:
+
+**[hackrf-wsjtx-3.1.7-setup.exe](https://bridges.n6nu.org/beta/hackrf-wsjtx-3.1.7-setup.exe)**
+
+It carries the Microsoft Visual C++ runtime with it, so it does not need the
+Redistributable installed separately, and brings everything since: the
+wideband QMAP work, per-band transverter offsets including the 13 cm rows,
+and the Linrad bandwidth handling.
+
+The whole bridge family and the user guide: <https://bridges.n6nu.org>
+
+---
+
 ## Latest release — v1.0.0 (stable)
 
 Download: **[hackrf-wsjtx-1.0.1-setup.exe](hackrf-wsjtx-1.0.1-setup.exe)**
