@@ -15,7 +15,7 @@ Author: **Andreas Junge, N6NU** &lt;<n6nu@arrl.net>&gt;.
 V3 is close to release, and the current build is far ahead of the v1.0.x
 download below:
 
-**[hackrf-wsjtx-3.1.7-setup.exe](https://bridges.n6nu.org/beta/hackrf-wsjtx-3.1.7-setup.exe)**
+**[hackrf-wsjtx-3.1.8-setup.exe](https://bridges.n6nu.org/beta/hackrf-wsjtx-3.1.8-setup.exe)**
 
 It carries the Microsoft Visual C++ runtime with it, so it does not need the
 Redistributable installed separately, and brings everything since: the
